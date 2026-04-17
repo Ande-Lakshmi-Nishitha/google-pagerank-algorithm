@@ -14,16 +14,16 @@ Pages with more high-quality incoming links receive higher rankings.
 
 ## Key Concepts
 
-* Graph Representation
+* Graph Representation: 
   Web pages are represented as nodes, and hyperlinks as directed edges.
 
-* Random Surfer Model
+* Random Surfer Model: 
   A user randomly clicks links, occasionally jumping to any page (damping factor).
 
-* Damping Factor (d)
+* Damping Factor (d): 
   Typically set to `0.85`, representing the probability of following a link.
 
-* Iterative Convergence
+* Iterative Convergence: 
   PageRank values are updated repeatedly until they stabilize.
 
 ---
